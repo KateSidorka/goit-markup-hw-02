@@ -40,6 +40,7 @@ body {
   display: inline-flex;
 }
 .header-logo {
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
@@ -51,7 +52,7 @@ body {
   color: var(--third-title-color);
 }
 .header-logo-second {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
